@@ -6,7 +6,7 @@ I'm a **Software Engineering student** passionate about building efficient, user
 
 ## 🌟 Skills & Technologies
 - **Programming Languages:** Java, Python, C#, SQL, HTML, CSS
-- **Frameworks & Tools:** .NET, Entity Framework, LINQ, Blazor, Bootstrap
+- **Frameworks & Tools:** .NET, Entity Framework, LINQ, Blazor, Bootstrap, Hibernate, JPA, JWT, Spring Security
 - **Database Management:** SQL, WCF
 - **Version Control:** Git
 - **Soft Skills:** Problem-solving, teamwork, and attention to detail
